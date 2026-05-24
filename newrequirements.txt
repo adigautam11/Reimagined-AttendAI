@@ -1,0 +1,8 @@
+Flask==2.3.3
+opencv-python==4.8.0.76
+face-recognition==1.3.0
+Pillow==10.0.0
+numpy>=1.26.0
+cmakepip install -r requirements_py312.txt
+pip install dlibpip install -r requirements_py312.txt
+pip install dlib
